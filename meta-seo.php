@@ -24,8 +24,9 @@ function add_meta_data() {
 
     endwhile;
   } else {
-      $title = wp_title('|', false);
-      $meta="<meta name='description' content='" . $title ."' />";
+      $title = get_bloginfo('title');
+      $description = get_bloginfo('description');
+      $meta="<meta name='description' content='" . $title ." | " . $description . "' />";
     echo $meta;
 
   }
