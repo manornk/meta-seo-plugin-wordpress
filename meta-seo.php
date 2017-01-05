@@ -9,10 +9,9 @@
    */
 
 
-
-
 define( 'MANORNK_METASEO__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 require_once( MANORNK_METASEO__PLUGIN_DIR . 'class.metaseo.php' );
 
 add_action( 'init', array( 'ManornkMetaSeo', 'init' ));
+
 ?>
