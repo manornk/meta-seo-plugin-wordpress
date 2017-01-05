@@ -8,28 +8,11 @@
    License: GPL2
    */
 
-add_action('wp_head','add_meta_data');
 
 
-function add_meta_data() {
-  if(is_page() || is_single()) {
-    while ( have_posts() ) : the_post();
 
-    $excerpt = trim(get_the_excerpt($post));
-    if(strlen($excerpt) >= 155) {
-      $excerpt = substr($excerpt, 0, 155);
-    }
-    $meta="<meta name='description' content='" . $excerpt . "' />";
-    echo $meta;
+define( 'MANORNK_METASEO__PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
+require_once( MANORNK_METASEO__PLUGIN_DIR . 'class.metaseo.php' );
 
-    endwhile;
-  } else {
-      $title = get_bloginfo('title');
-      $description = get_bloginfo('description');
-      $meta="<meta name='description' content='" . $title ." | " . $description . "' />";
-    echo $meta;
-
-  }
-}
-
+add_action( 'init', array( 'ManornkMetaSeo', 'init' ));
 ?>
