@@ -2,7 +2,7 @@
    /*
    Plugin Name: META SEO
    Description: This plugin adds meta description tags on posts and pages based on your content.
-   Version: 0.1
+   Version: 0.2
    Author: Rajko Orman
    Author URI: http://manornk.me
    License: GPL2
