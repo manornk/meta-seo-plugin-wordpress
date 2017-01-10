@@ -1,11 +1,18 @@
 #META SEO
-Contributors: [manornk](http://manornk.me)[meta-seo](https://wordpress.org/plugins/meta-seo/)
+Contributors: [manornk](http://manornk.me)  [meta-seo](https://wordpress.org/plugins/meta-seo/)
+
 Tags: meta, seo, data
+
 Requires at least: 4.6
+
 Tested up to: 4.7
+
 Stable tag: 0.3
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 
 META SEO adds meta description tags on your posts and pages based on the content.
 
@@ -19,9 +26,9 @@ META SEO adds meta description tags on your posts and pages based on the content
 1. Activate the plugin through the 'Plugins' screen in WordPress
 
 
-#Frequently Asked Questions ==
+#Frequently Asked Questions
 
-###Why do I need this plugin? =
+###Why do I need this plugin?
 
 Sometimes developers don't insert meta description tags in your theme, and that affects your SEO readings, so plugin adds those tags.
 
