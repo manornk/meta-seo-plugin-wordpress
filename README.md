@@ -1,13 +1,11 @@
 #META SEO
-Contributors: [manornk](http://manornk.me)  [meta-seo](https://wordpress.org/plugins/meta-seo/)
-
-Tags: meta, seo, data
-
-Requires at least: 4.6
-Tested up to: 4.7
-Stable tag: 0.3
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Contributors: [manornk](http://manornk.me)  [meta-seo](https://wordpress.org/plugins/meta-seo/) 
+Tags: meta, seo, data 
+Requires at least: 4.6 
+Tested up to: 4.7 
+Stable tag: 0.3 
+License: GPLv2 or later License 
+URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 
 META SEO adds meta description tags on your posts and pages based on the content.
