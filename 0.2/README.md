@@ -1,5 +1,5 @@
 #META SEO
-Contributors: manornk <br />
+Contributors: [manornk](http://manornk.me)  [meta-seo](https://wordpress.org/plugins/meta-seo/)<br />
 Tags: meta, seo, data <br />
 Requires at least: 4.6 <br />
 Tested up to: 4.7 <br />
