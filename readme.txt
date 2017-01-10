@@ -24,3 +24,15 @@ META SEO adds meta description tags on your posts and pages based on the content
 = Why do I need this plugin? =
 
 Sometimes developers don't insert meta description tags in your theme, and that affects your SEO readings, so plugin adds those tags.
+
+== Changelog ==
+
+= 0.2 =
+Release Date - 06 January 2017
+* Added title and description as meta description on HomePage
+
+== Upgrade Notice ==
+
+= 0.2 =
+* Adds more info in meta description
+
