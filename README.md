@@ -3,16 +3,15 @@ Contributors: [manornk](http://manornk.me)  [meta-seo](https://wordpress.org/plu
 Tags: meta, seo, data <br />
 Requires at least: 4.6 <br />
 Tested up to: 4.7 <br />
-Stable tag: 0.3 <br />
+Stable tag: 0.4 <br />
 License: GPLv2 or later License <br />
 URI: https://www.gnu.org/licenses/gpl-2.0.html<br />
 
-
-META SEO adds meta description tags on your posts and pages based on the content.
+META SEO is a plugin that helps you get more visitors through SERPs (Search Engine Results Page).
 
 #Description
 
-META SEO adds meta description tags on your posts and pages based on the content.
+META SEO is a plugin that helps you get more visitors through SERPs (Search Engine Results Page). It adds meta description for every post and page, based on their content, but also enables you to add custom meta description on every post, as well as HomePage meta description via META SEO menu.
 
 #Installation
 
@@ -24,17 +23,15 @@ META SEO adds meta description tags on your posts and pages based on the content
 
 ###Why do I need this plugin?
 
-Sometimes developers don't insert meta description tags in your theme, and that affects your SEO readings, so plugin adds those tags.
-
+Sometimes developers don't insert meta description tags in your theme, and that decreases chance of getting visitors through SERP. 
 
 #Changelog
 
-###0.3
-Release Date - 07 January 2017
-* Added dashboard panel in admin panel
-* Added possibility of adding custom meta description on HomePage
+###0.4
+Release Date - 15 January 2017
+* Added possibility of adding custom meta description for every post
 
 #Upgrade Notice
 
-###0.3
-* Enables you to add custom meta description for HomePage
+###0.4
+* Added possibility of adding custom meta description for every post
